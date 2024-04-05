@@ -29,6 +29,6 @@ void LinearSearch() {
 	int item;
 
 	do {
-
+		cout << "\nEnter the element you want to search : ";
 	}
 }
